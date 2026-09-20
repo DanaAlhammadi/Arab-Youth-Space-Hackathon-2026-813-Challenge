@@ -12,6 +12,7 @@ rename, or modify an AOI without informing Person 1.
 
 **File:** `AOI_A_saih_al_salam_D42.geojson`
 
+- AOI ID: AOI-A
 - Road: Saih Al Salam Street (D42)
 - Country: United Arab Emirates
 - Approximate road length: 2 km
@@ -45,8 +46,8 @@ candidate for comparison.
 
 **Planned file:** `AOI_C_backup.geojson`
 
-Status: Not created yet. It will be selected based on confirmed
-hyperspectral coverage identified by Person 2.
+Status: Not created yet. It will be chosen from confirmed hyperspectral
+coverage identified by Person 2.
 
 ## Team Rules
 
