@@ -74,3 +74,26 @@ The README describes the repository as containing:
 │   └── images/
 │
 └── requirements.txt
+
+
+```markdown
+---
+
+# 4. Recommended Notebook Order for THABAT
+
+## Step 1 — Read the README
+
+Understand:
+
+- available data;
+- folder structure;
+- notebook purpose;
+- licences;
+- known technical issues.
+
+## Step 2 — Run the starter notebook
+
+Primary filename shown in the repository structure:
+
+```text
+00_data_exploration_starter.ipynb
