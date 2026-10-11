@@ -1,5 +1,9 @@
 # THABAT — AI-Powered Road Resilience
 
+## Live Dashboard
+
+[Open the THABAT interactive dashboard](https://thabat.ai.studio)
+
 ## 1. Title and one-line summary
 
 **Project:** THABAT  
