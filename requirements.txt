@@ -1,7 +1,9 @@
-# THABAT thermal-screening notebook
+# THABAT reproducible thermal-screening notebook
 # Python 3.11
+
 numpy==1.26.4
 pandas==2.2.3
 matplotlib==3.9.2
 rasterio==1.4.3
 xlrd==2.0.1
+jupyterlab==4.3.6
